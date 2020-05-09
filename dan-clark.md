@@ -1,7 +1,10 @@
 # Head-Fi Thread
+
+This is the official guide from Dan Clark's post on Head-Fi, available [here](https://www.head-fi.org/threads/open-alpha-t50-3d-printed-headphone-project-from-mrspeakers.825868/) ([archive](https://web.archive.org/web/2019*/https://www.head-fi.org/threads/open-alpha-t50-3d-printed-headphone-project-from-mrspeakers.825868/)).
+
 - [Head-Fi Thread](#head-fi-thread)
   - [Introduction](#introduction)
-  - [Open Source Alpha Preliminary Directions (if something is unclear or incorrect please post or PM me so we may revise)](#open-source-alpha-preliminary-directions-if-something-is-unclear-or-incorrect-please-post-or-pm-me-so-we-may-revise)
+  - [Open Source Alpha Preliminary Directions](#open-source-alpha-preliminary-directions)
     - [Step 1: Remove Drivers](#step-1-remove-drivers)
     - [Step 2: Detach Fostex Baffles](#step-2-detach-fostex-baffles)
     - [Step 3:  Cup Preparation](#step-3-cup-preparation)
@@ -14,31 +17,32 @@
       - [STL Printer Files](#stl-printer-files)
     - [Ordering 3D Manufactured Parts Online](#ordering-3d-manufactured-parts-online)
   - [Image Grabs of Printer Parts Orientation on Printer for Best Print Results](#image-grabs-of-printer-parts-orientation-on-printer-for-best-print-results)
-This is the official guide from Dan Clark's post on Head-Fi, available [here](https://www.head-fi.org/threads/open-alpha-t50-3d-printed-headphone-project-from-mrspeakers.825868/) ([archive](https://web.archive.org/web/2019*/https://www.head-fi.org/threads/open-alpha-t50-3d-printed-headphone-project-from-mrspeakers.825868/)).
 
-Some liberties were made to translate this to a Markdown document.
+Some liberties were made to translate this to a Markdown document, but no wording was changed.
 
 ## Introduction
 
 As a thank you to the Head-Fi community, we're pleased to share a modified version of the Alpha Dog 3D printed headphone for the community to build DIY projects and perhaps improve on the tuning and performance of the headphone.  We are posting this fully unlicensed, though we hope people will use this for personal, not commercial purposes.  
- 
+
 Note: Headphone modifications are not without risk to the headphones and their parts.  MrSpeakers takes no responsibility for any damage caused to your Fostex headphones by following the steps outlined in this guide, either as a result of errors in our documentation or execution errors on your end.  
- 
-In addition, this will not be a “supported” thread, we’ll help a early users with any questions or issues and then hope the community is self-sustaining.  We’ll check in time to time to see how it’s going.  We will not answer questions for you via telephone or email. We’ll think about answering your question if you send a telegram, candy-gram, wire, bat signal, smoke signal, carrier pigeon, or a package with treats for the staff.  Most importantly have fun doing this and don’t be afraid to ask the community for help. 
- 
- 
-## Open Source Alpha Preliminary Directions (if something is unclear or incorrect please post or PM me so we may revise)
- 
+
+In addition, this will not be a “supported” thread, we’ll help a early users with any questions or issues and then hope the community is self-sustaining.  We’ll check in time to time to see how it’s going.  We will not answer questions for you via telephone or email. We’ll think about answering your question if you send a telegram, candy-gram, wire, bat signal, smoke signal, carrier pigeon, or a package with treats for the staff.  Most importantly have fun doing this and don’t be afraid to ask the community for help.
+
+## Open Source Alpha Preliminary Directions
+
+If something is unclear or incorrect please post or PM me so we may revise.
+
 ### Step 1: Remove Drivers
+
 1. Start with a Fostex T50RPx, T40RPx, or T20RPx.
 2. Remove ear pads
-3. Unscrew baffle.  NOTE: the internal leads to the driver are short, when the baffle detaches open it carefully.  If you pull a lead hard it will tear the solder pad off the driver and your driver is bricked. 
+3. Unscrew baffle.  NOTE: the internal leads to the driver are short, when the baffle detaches open it carefully.  If you pull a lead hard it will tear the solder pad off the driver and your driver is bricked.
 4. Desolder the driver leads.  Work fast, you do not want to overheat the pad.  Blow on the solder pad cool it as soon as the leads are removed to reduce risk of delamination.
 5. This step is optional but recommended.  The Fostex driver has two layers of protection over it, a fine screen and a thin black felt. Using a very sharp exacto knife, cut through the black felt and follow the obvious square seam that surrounds the driver, then peal the felt back.  Try to leave the mesh in place.  If the mesh comes away you can tack it down with cement around he periphery, or leave it off completely if you are using Alpha Pads, as the pads have a dust screen built in.  See Fig XX to visualize what the driver looks like with the felt removed.
 6. Repeat for the other driver
 7. Unscrew the three screws on the ear-side of the baffle to detach drivers from the baffle.  Store the baffle screws in your zip lock bag for later use.
 8. Set drivers to side, and put baffles in your “discard” pile
- 
+
 ### Step 2: Detach Fostex Baffles
 
 1. Using wire snippers, cut the small wire where it enters both sides of th headband, cutting as close as you can to the plastic the wire feeds into.
@@ -46,7 +50,7 @@ In addition, this will not be a “supported” thread, we’ll help a early use
 3. Unscrew the large silver Phillips screw.
 4. Detach the cup from the headband and shake out the screw AND the ball socket it holds in place.
 5. Collect the plastic end caps from the slider, the screws and the plastic ball join and store them in your zip lock bag.  DO NOT LOOSE THESE PLASTIC PARTS unless you wish to buy another T50.
- 
+
 ### Step 3:  Cup Preparation
 
 Refer to the Open Source Alpha, Exlpoded View PDF
@@ -121,18 +125,14 @@ If you are not getting enough bass or mid-bass output, you may consider making a
 |All official files|[Link](./stl/official.zip)|
 |Adjustable bass earcups|[Link](./stl/adjustable-cups.zip)|
 
-
 ### Ordering 3D Manufactured Parts Online
+
 If you do not own or have access to a 3D printer you may procure parts from Shapeways.  Our parts are sold "at cost," we're not adding any markup to the models.  The Shapeways store is [mrspeakers](https://www.shapeways.com/shops/mrspeakers)
 
 Note: Shapeways parts will be heavier than conventionally manufactured additive 3D printed parts, and will have solid walls.
 
-## Image Grabs of Printer Parts Orientation on Printer for Best Print Results 
-
-
+## Image Grabs of Printer Parts Orientation on Printer for Best Print Results
 
 EDITABLE FILE FORMATS FOR PARTS
- 
 IGES
- 
 PARASOLID
