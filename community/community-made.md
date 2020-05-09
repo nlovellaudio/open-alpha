@@ -3,6 +3,10 @@
 A bunch of the Alpha Dogs exist in the wild! I've collected some photos of the ones that have been made, for reference.
 
 
+## Table
+
+Mostly to list credits and stuff.
+
 |Maker|Website|Source|Image|Colour|
 |-----|-------|------|-----|------|
 |Antdroid|Headfi|[Source](https://www.head-fi.org/threads/open-alpha-t50-3d-printed-headphone-project-from-mrspeakers.825868/page-23#post-13300361) | [Image](./antdroid.jpg)|Black|
@@ -11,3 +15,12 @@ A bunch of the Alpha Dogs exist in the wild! I've collected some photos of the o
 |Arty McGhee|Head-Fi|[Source](https://www.head-fi.org/threads/open-alpha-t50-3d-printed-headphone-project-from-mrspeakers.825868/post-13055859)|[Image](./artymcghee.jpg)|Tan|
 |homerograco|Head-Fi|[Source](https://www.head-fi.org/threads/open-alpha-t50-3d-printed-headphone-project-from-mrspeakers.825868/post-15557597)|[Image](./homerograco.jpg)|Burgandy + Blue|
 |Mine!|Github|[Source](https://github.com/nlovell/diy-audio)|[Image](./alan.jpg)|Purple|
+|Robert Baiko|Head-Fi|[Source](https://www.head-fi.org/threads/open-alpha-t50-3d-printed-headphone-project-from-mrspeakers.825868/post-13286339)|[Image](./robert-baiko.jpg)|Marbled Blue|
+
+## Images
+
+![Alan](./alan.jpg)
+
+![Robert Baiko](./robert-baiko.jpg)
+
+![antdroid](./antdroid.jpg)
